@@ -1,3 +1,3 @@
-# The physiological basis for linear computation of direction selectivity
+# The physiological basis of contrast opponency in motion computation in *Drosophila*
 
 Code repository used to produce figures in the paper mentioned in the title.
