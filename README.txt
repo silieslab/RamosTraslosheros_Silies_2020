@@ -124,3 +124,4 @@ Plots tuning curves over motion directions for the different models over differe
 Plots tuning curves over motion directions for the different models over different EI ratios and different readouts
 - local dependencies: collect_simulation_data, analyzesimulation, plotsimulation
 - python packages: matplotlib, numpy, os, re, pickle
+
